@@ -1,4 +1,4 @@
-baseURL: "https://username.github.io" 
+baseURL: "https://jortegab.github.io" 
 title: Jose A. Ortega
 paginate: 20
 theme: PaperMod
@@ -19,7 +19,7 @@ menu:
           weight: 2
         - name: Packages
           url: packages/
-          weight: 3 
+          weight: 3
         - name: Blog
           url: blog/
           weight: 4
@@ -106,7 +106,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
