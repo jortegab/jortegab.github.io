@@ -25,8 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I am a MSc. Student in Econometrics at Universidad Torcuato di Tella."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "April 2024"
@@ -51,7 +50,7 @@ consequat."
     profileMode:
           enabled: true
           title: Jose A. Ortega
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          subtitle: "I am a MSc. Student in Econometrics at Universidad Torcuato di Tella."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -65,10 +64,10 @@ consequat."
               url: packages/
             - name: Blog
               url: blog/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
