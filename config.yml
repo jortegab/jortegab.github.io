@@ -14,19 +14,16 @@ menu:
         - name: Research
           url: research/
           weight: 1
-        - name: Replication Files
-          url: replication/
+        - name: Code
+          url: code/
           weight: 2
-        - name: Packages
-          url: packages/
-          weight: 3
         - name: Blog
           url: blog/
-          weight: 4
+          weight: 3
 
 params:
     description: "I am a MSc. Student in Econometrics at Universidad Torcuato di Tella."
-    author: Name
+    author: Jose A. Ortega
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "April 2024"
     defaultTheme: light
@@ -58,16 +55,10 @@ params:
           buttons:
             - name: Research
               url: research/
-            - name: Replication Files
-              url: replication/
-            - name: Packages
-              url: packages/
+            - name: Code
+              url: code/
             - name: Blog
               url: blog/
-            #- name: Tags
-            #  url: tags/
-            #- name: Archive
-            #  url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
